@@ -31,3 +31,4 @@ D:\2024-3-POO-CRM\backend\obj\Debug\net8.0\refint\backend.dll
 D:\2024-3-POO-CRM\backend\obj\Debug\net8.0\backend.pdb
 D:\2024-3-POO-CRM\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 D:\2024-3-POO-CRM\backend\obj\Debug\net8.0\ref\backend.dll
+D:\2024-3-POO-CRM\backend\obj\Debug\net8.0\backend.sourcelink.json
